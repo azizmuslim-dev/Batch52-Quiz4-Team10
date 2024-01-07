@@ -1,7 +1,10 @@
+*** Settings ***
+Resource    ../pageObjects/base/base.robot
 *** Test Cases ***
 
 User should be able to login with valid credentials
     # Step 1: Open the application
+    Open Flights application
     # Step 2: Verify home page appears
     # Step 3: Click on the login button
     # Step 4: Verify Login page appears
@@ -11,4 +14,4 @@ User should be able to login with valid credentials
     # Step 7: Verify that the user is logged in
     # Step 8: Close the application
 
-User should not be able to login with invalid credentials
+# User should not be able to login with invalid credentials

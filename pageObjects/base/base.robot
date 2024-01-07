@@ -12,10 +12,10 @@ ${APP_ACTIVITY}                    com.example.myapplication.MainActivity
 *** Keywords ***
 Open Flights application
     Open Application               remote_url=${REMOTE_URL}
-    ...                            plaformName=${PLATFORM_NAME}
+    ...                            platformName=${PLATFORM_NAME}
     ...                            platformVersion=${PLATFORM_VERSION}
     ...                            deviceName=${DEVICE_NAME}
     ...                            appPackage=${APP_PACKAGE}
-    ...                            appActivity=${APP_ACTIVITY}       
+    ...                            appActivity=${APP_ACTIVITY}    
 Close Flights application
     Close Application
