@@ -1,0 +1,2 @@
+logoHomePage: "//android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView4"]"
+signInButtonHomePage: "//android.widget.Button[@resource-id="com.example.myapplication:id/login"]"
