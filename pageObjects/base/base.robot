@@ -1,4 +1,5 @@
 *** Settings ***
+# get all keywords from the appium libraries
 Library    AppiumLibrary
 
 *** Variables ***
