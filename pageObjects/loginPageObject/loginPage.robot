@@ -18,3 +18,9 @@ Input User password on Login Page
 
 Click Sign In Button on Login Page
     Click Element    ${signInButtonLoginPage}
+
+Login With Valid Credentials
+    [Arguments]        ${email}    ${password}
+    Input User Email on Login Page        ${email}
+    Input User password on Login Page     ${password}
+    Click Sign In Button on Login Page
