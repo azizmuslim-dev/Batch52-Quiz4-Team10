@@ -14,7 +14,7 @@
 <h2>
 <p align="center"> 
   <samp>
-    <a href="https://drive.google.com/drive/folders/1KpH9UkjWpwD2iE8grkkujL_2WxGIY5BQ?usp=sharing">「 Recording File 」</a>
+    <a href="https://drive.google.com/file/d/10pXqkPqWf0Myb9AQkspfvdDHhISnckIi/view?usp=sharing">「 Recording File 」</a>
     <br>
     「 We are application automation testers from <b>Indonesia</b> 」
     <br>
