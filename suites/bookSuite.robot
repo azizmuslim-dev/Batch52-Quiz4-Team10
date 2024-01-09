@@ -19,8 +19,7 @@ User should be able to login with valid credentials
     Verify Home Page Appears
     # Step 8: Verify that the user is logged in
     Verify User Is logged In
-    # Verify Button Book Is Visible
-    # Close Flights application
+    Verify Button Book Is Visible
+    Close Flights application
 
 # User should be able to Book Flights
-    
