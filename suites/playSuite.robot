@@ -3,8 +3,8 @@ Resource    ../pageObjects/homePageObject/homePage.robot
 Resource    ../pageObjects/loginPageObject/loginPage.robot
 Resource    ../pageObjects/bookPageObject/bookPage.robot
 Resource    ../pageObjects/searchPageObject/searchPage.robot
-Resource    loginSuite.robot    # Include the loginSuite.robot file here
 Library    AppiumLibrary
+
 Test Setup    Run Keywords 
 ...    Open Flights application    
 ...    AND    Login With Valid Credentials
