@@ -15,9 +15,9 @@ Test Setup           Run Keywords
 
 *** Test Cases ***
 User should be able to login with valid credentials
-    # Step 2: Verify home page appears
+    # Verify home page appears
     Verify Home Page Appears
-    # Step 8: Verify that the user is logged in
+    # Verify that the user is logged in
     Verify User Is logged In
     Verify Button Search Is Visible
     Click Search Button In Home Page
