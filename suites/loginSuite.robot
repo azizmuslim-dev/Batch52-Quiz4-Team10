@@ -6,11 +6,10 @@ Library    AppiumLibrary
 Test Setup           Run Keywords 
 ...                  Open Flights application    
 ...                  AND    Login With Valid Credentials
-Test Teardown        Close Flights application
 
-*** Variables ***
-${VALID_EMAIL}            support@ngendigital.com
-${VALID_PASSWORD}         abc123
+# *** Variables ***
+# ${VALID_EMAIL}            support@ngendigital.com
+# ${VALID_PASSWORD}         abc123
 
 *** Test Cases ***
 User should be able to login with valid credentials
